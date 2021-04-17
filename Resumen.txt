@@ -18,4 +18,7 @@ se gregaron imagenes al nav una desde CSS y otra desde html
 
 se maqueto la sección principal del buscador en html
 
+clase estilos en la sección principal y se agrego y dio
+formato a la imagen
+
 Para mayor información vease el documento https://docs.google.com/document/d/1_87xC_ofuecg_uZWi8UdZmPWk6VdEdgJ3z5YVtgR43I/edit?usp=sharing

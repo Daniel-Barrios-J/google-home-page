@@ -4,6 +4,9 @@ En este primer commite se generaron la configuración
 de las carpetas y archivos necesarios para
 el proyecto. Han pasado ya varias clases.
 
+En esta clase se maqueto el Header
 
+Clase Maquetado del Header Y se eliminaron los estilos base
+del css
 
 Para mayor información vease el documento https://docs.google.com/document/d/1_87xC_ofuecg_uZWi8UdZmPWk6VdEdgJ3z5YVtgR43I/edit?usp=sharing

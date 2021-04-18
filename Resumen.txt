@@ -23,4 +23,8 @@ formato a la imagen
 
 clase estilos, se agregaron estilos al input
 
+agregando los iconos del buscador
+
+agregamos estilos a los botones de busqueda
+
 Para mayor información vease el documento https://docs.google.com/document/d/1_87xC_ofuecg_uZWi8UdZmPWk6VdEdgJ3z5YVtgR43I/edit?usp=sharing

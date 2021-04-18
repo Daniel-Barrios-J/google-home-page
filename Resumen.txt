@@ -29,4 +29,6 @@ agregamos estilos a los botones de busqueda
 
 maquetado de footer en html
 
+clase de estilos al footer
+
 Para mayor información vease el documento https://docs.google.com/document/d/1_87xC_ofuecg_uZWi8UdZmPWk6VdEdgJ3z5YVtgR43I/edit?usp=sharing
